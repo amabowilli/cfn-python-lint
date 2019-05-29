@@ -1,0 +1,4 @@
+Testing the following 
+- Mate will be invoked
+- Add some files to my git repo
+- make sure i practive with add, commit and clone commands
