@@ -225,3 +225,5 @@ repos:
 [![PyPI - Downloads](https://img.shields.io/pypi/dm/cfn-lint.svg)](https://pypi.org/project/cfn-lint/#history)
 
 +this is a test line that will be removed soon+
+
+DEPLOYMENT
